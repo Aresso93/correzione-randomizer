@@ -1,0 +1,12 @@
+.student-div{
+    border: 3px solid black;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    color: blue;
+}
+
+
+/*aggiungere a tutti gli studenti caratteristiche come data di nascita, genere, soprannome
+dare a ogni studente una card con un bordo fatta come da foto WhatsApp
+*/
