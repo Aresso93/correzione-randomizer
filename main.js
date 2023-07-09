@@ -48,7 +48,6 @@ function renderPage(){
         const student = classroom1.students[i];
 
         const divElement = document.createElement('div');                           
-        
         divElement.classList.add('student-div');
         const spanName = document.createElement('span');
         const textNodeName = document.createTextNode(student.toStringName());
